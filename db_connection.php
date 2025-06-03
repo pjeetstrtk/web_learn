@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$database = "web_learn";
+$database = "web_learn_db";
 $password = "";
 
 // Create connection
